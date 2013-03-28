@@ -1,6 +1,6 @@
 <?php
 /*
-This is a PHP script that I run as a cron job on my linux box at home to update the IPv4 address to my IPv6 tunnel that I have with Hurricaine Electric. Nothing too fancy here.
+This is a PHP script that I run as a cron job on my linux box at home to ensure that Hurricaine Electirc knows what my dynamic IPv4 address is, and that my IPv6 tunnel is working.
 */
 $username = "USERNAME";
 $password = "PASSWORD";
